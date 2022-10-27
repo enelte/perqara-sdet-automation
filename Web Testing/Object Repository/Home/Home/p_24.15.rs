@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_24.15</name>
+   <tag></tag>
+   <elementGuidId>2159a5d3-89b7-40e6-b5be-6ed2ca3ef064</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.sc-1h98xa9-9.jzywDV</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[3]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>07b813bf-8f2e-40d7-9b5a-4fde4967bc48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1h98xa9-9 jzywDV</value>
+      <webElementGuid>25e93bdb-b796-4155-9a13-e57af7e1cf34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$ 24.15</value>
+      <webElementGuid>77a8163c-0bce-404d-a4e4-866441a4c067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-ebmerl-0 foenKb&quot;]/div[@class=&quot;sc-1h98xa9-1 kQlqIC&quot;]/div[@class=&quot;sc-1h98xa9-4 hzlwTK&quot;]/div[@class=&quot;sc-1h98xa9-12 fqwdnu&quot;]/div[@class=&quot;sc-1h98xa9-8 bciIxg&quot;]/p[@class=&quot;sc-1h98xa9-9 jzywDV&quot;]</value>
+      <webElementGuid>bd443fc2-5d9c-4478-8ad9-ea6015da28d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[3]/div/p</value>
+      <webElementGuid>4cb51915-646c-4281-83b1-934c29852d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/following::p[2]</value>
+      <webElementGuid>a53a7df6-dae0-4dc7-8749-05a379bfe505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::p[2]</value>
+      <webElementGuid>b045d8fe-0e38-475b-bcda-0a78d728b16b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR UP TO 9 x $ 2.68'])[1]/preceding::p[1]</value>
+      <webElementGuid>d097c990-1c4c-4031-9e57-53ab279e48ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/preceding::p[2]</value>
+      <webElementGuid>fa07b11c-bcab-4e63-85cb-b804ecc72160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$ 24.15']/parent::*</value>
+      <webElementGuid>d3146b3c-845d-41c2-ac31-d8ccea8d9f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/p</value>
+      <webElementGuid>1bc46995-1298-4fa4-a69c-e5a7acfb3a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$ 24.15' or . = '$ 24.15')]</value>
+      <webElementGuid>cfbff2a0-66d3-4cac-baab-b495ddc5ba9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

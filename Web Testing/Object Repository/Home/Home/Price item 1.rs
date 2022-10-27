@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Price item 1</name>
+   <tag></tag>
+   <elementGuidId>59e8bbf7-f39a-4fc1-9b95-de81f980053a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.sc-124al1g-6.ljgnQL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/main/div/div/div[3]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>93a47bdb-7c09-40b6-8881-33e42b11bf0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-124al1g-6 ljgnQL</value>
+      <webElementGuid>f5914ad5-5666-4a4c-a2d5-99589429fb9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$10.90</value>
+      <webElementGuid>409bfa63-7f1c-436a-8e2a-823819b47c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-ebmerl-0 foenKb&quot;]/main[@class=&quot;sc-ebmerl-1 bmmyxu&quot;]/main[@class=&quot;sc-ebmerl-3 hewZDo&quot;]/div[@class=&quot;sc-uhudcz-0 iZZGui&quot;]/div[@class=&quot;sc-124al1g-2 dwOYCh&quot;]/div[@class=&quot;sc-124al1g-5 fTQxRg&quot;]/p[@class=&quot;sc-124al1g-6 ljgnQL&quot;]</value>
+      <webElementGuid>98dc2d24-7a0f-4352-ab6c-8ff1ef3fe5eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/main/div/div/div[3]/p</value>
+      <webElementGuid>114387bf-ecaa-45b5-808b-ed48838fc7d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free shipping'])[1]/following::p[2]</value>
+      <webElementGuid>12d6ba8c-b885-4a74-8636-5c2ac83fd4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Star'])[1]/following::p[3]</value>
+      <webElementGuid>cac3b968-6c3b-43e3-ab65-97b954f54090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/p</value>
+      <webElementGuid>4c5073d4-80da-4ac0-95ff-0e4e71ffa1d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$10.90' or . = '$10.90')]</value>
+      <webElementGuid>fa9322ea-7bc5-448c-a8d8-12402d2fa81b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
